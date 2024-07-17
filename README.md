@@ -1,7 +1,8 @@
-# Seção 28: TypeScript - Design Patterns - Padrões de Projeto - GOF
+TypeScript - Design Patterns - Padrões de Projeto - GOF
 
 ## Descrição
 Este repositório contém exemplos e explicações sobre os padrões de projeto (Design Patterns) da Gang of Four (GOF), implementados em TypeScript. O objetivo é fornecer uma compreensão prática de como esses padrões podem ser aplicados em projetos de software, utilizando TypeScript como a linguagem de implementação.
+Esse foi um projeto desenvolvido totalmente com base no curso de Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 
 ## Índice
 1. [Padrões Criacionais](#padrões-criacionais)
